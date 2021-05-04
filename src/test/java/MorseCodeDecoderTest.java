@@ -10,4 +10,4 @@ public class MorseCodeDecoderTest {
         assertEquals(MorseCodeDecoder.decode(".... . -.--   .--- ..- -.. ."), ("HEY JUDE"));
 
     }
-}+
+}
